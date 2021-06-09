@@ -1,0 +1,40 @@
+.bg-silbertec {
+    background-color: #414347!important;
+}
+.col > a{
+    text-decoration: none;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  .filtros{
+      max-width: 400px;
+  }
+  body{
+      font-family: Montserrat;
+  }
+  .card-footer{
+      font-weight: 700;
+font-size: 1.4rem;
+font-family: 'Montserrat';
+color: #e17513;
+  }
+
+  a.secondNav{
+      color: white!important;
+      text-decoration: none;
+      font-weight: 700;
+  }
+  a.secondNav:hover{
+      color: #f60!important;
+  }
