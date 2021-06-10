@@ -38,3 +38,7 @@ color: #e17513;
   a.secondNav:hover{
       color: #f60!important;
   }
+  .sub-nav:hover{
+      background-color: white;
+      color: orange;
+  }
